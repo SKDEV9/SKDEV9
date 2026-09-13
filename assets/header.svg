@@ -1,0 +1,33 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="220">
+      <stop stop-color="#11100F"/>
+      <stop offset="1" stop-color="#1B1815"/>
+    </linearGradient>
+
+    <radialGradient id="glow">
+      <stop stop-color="#C97A40" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#C97A40" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="220" rx="16" fill="url(#bg)"/>
+  <circle cx="970" cy="80" r="250" fill="url(#glow)"/>
+
+  <text x="90" y="92"
+        fill="#F5F5F4"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="44"
+        font-weight="700">
+    Samuel Gomes
+  </text>
+
+  <text x="90" y="135"
+        fill="#A8A29E"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="19">
+    Backend Developer • Java &amp; Spring Boot
+  </text>
+
+  <rect x="90" y="164" width="82" height="3" rx="1.5" fill="#C97A40"/>
+</svg>
