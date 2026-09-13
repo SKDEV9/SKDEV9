@@ -2,21 +2,11 @@
   <img src="./assets/header.svg" width="100%" alt="Samuel Gomes - Backend Developer" />
 </p>
 
-<p align="center">
-  Backend developer focused on <strong>Java and Spring Boot</strong>, building APIs and backend systems while exploring messaging, testing and software architecture.
-</p>
-
-<p align="center">
-  Information Technology student • Open to Backend Intern / Junior opportunities
-</p>
-
 ---
 
 ## About me
 
 I'm an Information Technology student focused on **backend development with Java and Spring Boot**. I enjoy building APIs and understanding the engineering decisions behind reliable backend systems, especially around software architecture, databases, testing, messaging and distributed systems.
-
-I'm currently developing **EventFlow**, where I'm progressively exploring concepts such as asynchronous messaging, concurrency, transactional events and messaging resilience. I also developed **GymFlow**, a full-stack platform for gym, trainer and workout management.
 
 My current goal is to continue developing my backend engineering skills while preparing for opportunities as a **Backend Intern or Junior Developer**.
 
@@ -111,23 +101,32 @@ Main concepts:
 
 ➡️ [GymFlow Organization](https://github.com/GymFlow-BR)
 
----
-
 ## Current Focus
 
-```text
-Backend Engineering
-├── Java & Spring ecosystem
-├── REST API design
-├── PostgreSQL & data modeling
-├── Automated testing
-├── Messaging & event-driven systems
-├── Concurrency & transactions
-├── Caching
-├── Observability
-├── CI/CD
-└── Containers & Cloud
-```
+<sub>BACKEND ENGINEERING</sub>
+
+<p>
+  <img src="https://img.shields.io/badge/Java_%26_Spring-111827?style=flat-square&logo=spring&logoColor=6DB33F" />
+  <img src="https://img.shields.io/badge/REST_API_Design-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/PostgreSQL_%26_Data_Modeling-111827?style=flat-square&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/Automated_Testing-111827?style=flat-square&logo=junit5&logoColor=25A162" />
+</p>
+
+<sub>SYSTEMS & ARCHITECTURE</sub>
+
+<p>
+  <img src="https://img.shields.io/badge/Messaging_%26_Event--Driven_Systems-111827?style=flat-square&logo=rabbitmq&logoColor=FF6600" />
+  <img src="https://img.shields.io/badge/Concurrency_%26_Transactions-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Caching-111827?style=flat-square&logo=redis&logoColor=DC382D" />
+  <img src="https://img.shields.io/badge/Observability-111827?style=flat-square" />
+</p>
+
+<sub>DELIVERY & INFRASTRUCTURE</sub>
+
+<p>
+  <img src="https://img.shields.io/badge/CI%2FCD-111827?style=flat-square&logo=github-actions&logoColor=2088FF" />
+  <img src="https://img.shields.io/badge/Containers_%26_Cloud-111827?style=flat-square&logo=docker&logoColor=2496ED" />
+</p>
 
 ---
 
